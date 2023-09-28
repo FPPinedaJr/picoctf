@@ -1,0 +1,7 @@
+flag: picoCTF{m0n3y_bag5_68d16363}
+
+solution:
+buy a large amount of "Defintely not the flag Flag"
+like 999999999
+it will cause int to overflow and will be negative
+making your balance increase

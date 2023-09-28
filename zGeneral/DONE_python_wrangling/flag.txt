@@ -1,0 +1,5 @@
+picoCTF{4p0110_1n_7h3_h0us3_ac9bd0ff}
+
+
+in the cli use the command:
+python3 ende.py -d flag.txt.en

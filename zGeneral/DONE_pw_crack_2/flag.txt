@@ -1,0 +1,5 @@
+flag: picoCTF{tr45h_51ng1ng_489dea9a}
+
+solution:
+just use the python file
+the password is de76

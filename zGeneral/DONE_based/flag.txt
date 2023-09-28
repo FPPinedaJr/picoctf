@@ -1,0 +1,7 @@
+flag: picoCTF{learning_about_converting_values_02167de8}
+
+solution:
+convert the givens to ascii
+the first one is binary
+the second one is octal
+the third one is hexadecimal

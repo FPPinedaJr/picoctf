@@ -1,0 +1,6 @@
+flag: picoCTF{7h3_r04d_l355_7r4v3l3d_8e47d128}
+
+solution:
+debug the code
+theres no error but in the 'b' if statement
+the function print_flag() is not called

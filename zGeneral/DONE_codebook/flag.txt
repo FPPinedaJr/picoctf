@@ -1,0 +1,4 @@
+flag: picoCTF{c0d3b00k_455157_d9aa2df2}
+
+method:
+just run the python file

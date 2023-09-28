@@ -1,0 +1,5 @@
+flag: picoCTF{the_m3tadata_1s_modified}
+
+method:
+use exiftool
+convert the 'sus' license

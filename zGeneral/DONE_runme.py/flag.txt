@@ -1,0 +1,4 @@
+flag: picoCTF{run_s4n1ty_run}
+
+solution:
+just run the python file

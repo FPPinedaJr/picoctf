@@ -1,0 +1,5 @@
+flag: picoCTF{m45h_fl1ng1ng_cd6ed2eb}
+
+solution:
+just try all of the possible passwords
+you can use for loops to automate

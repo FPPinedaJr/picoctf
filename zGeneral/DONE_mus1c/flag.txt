@@ -1,0 +1,7 @@
+flag: picoCTF{rrrocknrn0113r}
+
+solution:
+the lyric is written in the rockstar programming language
+use https://codewithrockstar.com/online to decode it
+it will give you decimals
+convert it to ascii

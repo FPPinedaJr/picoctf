@@ -1,0 +1,5 @@
+picoCTF{l3v3l_up!_t4k3_4_r35t!_2bcfb2ab}
+
+Method:
+find the flag file
+ctrl + f

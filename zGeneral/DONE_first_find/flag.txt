@@ -1,0 +1,7 @@
+flag: picoCTF{f1nd_15_f457_ab443fd1}
+
+solution:
+extract the zip
+use find "uber-secret.txt" . to find the file 
+change to that directory
+the flag is in the file

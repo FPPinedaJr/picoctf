@@ -1,0 +1,4 @@
+flag: picoCTF{Petya}
+
+solution:
+visit https://www.cnbc.com/2017/06/28/ransomware-cyberattack-petya-bitcoin-payment.html

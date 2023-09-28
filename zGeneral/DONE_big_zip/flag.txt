@@ -1,0 +1,4 @@
+flag: picoCTF{gr3p_15_m4g1c_ef8790dc}
+
+solution:
+use the command: grep -r "pico" extract/

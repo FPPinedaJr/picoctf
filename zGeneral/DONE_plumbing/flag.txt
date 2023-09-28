@@ -1,0 +1,4 @@
+flag: picoCTF{digital_plumb3r_ea8bfec7}
+
+solution:
+use the command: nc jupiter.challenges.picoctf.org 14291 | grep "picoCTF"

@@ -1,0 +1,6 @@
+flag: picoCTF{545h_r1ng1ng_fa343060}
+
+solution:
+use the python file
+enter the correct password
+password is "lela" based on the if statement in the code

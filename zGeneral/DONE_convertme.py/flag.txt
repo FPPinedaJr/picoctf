@@ -1,0 +1,5 @@
+flag: picoCTF{4ll_y0ur_b4535_722f6b39}
+
+method:
+just convert it, use the command(python3)
+print(bin(26))

@@ -1,0 +1,6 @@
+flag: picoCTF{h45h_sl1ng1ng_40f26f81}
+
+solution:
+try all of the possible passwords
+use for loops since there are thousands of possible passwords
+make the dictionary.txt a list first by using find and replace
